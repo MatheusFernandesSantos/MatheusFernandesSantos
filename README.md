@@ -1,5 +1,10 @@
 <h1>Olá Pessoal! Eu sou Matheus Fernandes Santos</h1>
-<h6>Analísta Service Desk Jr em Cloud, Técnico de Redes de Computadores, Bacharel em Ciência de Dados e Desenvolvedor Front-end</h6>
+
+`Service Desk Analyst Jr in Cloud Computing at Darede` 
+`Computer Networks Technician`
+`Bachelor of Data Science` 
+`Front End Developer Jr`
+
 
 Sou um profissional na área de TI, formado em Técnico em Redes de Computadores pelo Senai de Informática com a finalidade de Administrar e implantar redes de computadores, dispositivos de comunicação e serviços, de acordo com a necessidade do cliente, seguindo normas técnicas, recomendações do fabricante, boas práticas de mercado e procedimentos da empresa.
 Comecei minha graduação em Ciência da Computação no primeiro semestre de 2022, só que por motivos financeiros tive trancar o curso e atualmente estou cursando o ensino superior na UNIVESP, Bacharelado em Ciência de Dados, uma área que tem me interessado.
