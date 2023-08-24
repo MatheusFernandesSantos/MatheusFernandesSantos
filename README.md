@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus;Sejam+Bem-vindos!;Profissional+em+TI+:%29)](https://git.io/typing-svg)
 
-`Service Desk Analyst Jr in Cloud Computing at Darede` 
+`Service Desk Analyst Jr in Cloud Computing` 
 `Computer Networks Technician`
 `Bachelor of Data Science` 
 `Front End Developer Jr`
 
 ## ✅ &nbsp;Resumo: ##
 * 🖥️ Atuando como Analísta Service Desk Jr em Computação em Nuvem!
-* 🔌 Técnico em Redes de Computadores formado pelo Senai de Informática!
-* 📊 Cursando Bacharelado em Ciência de Dados na UNIVESP!
+* 🔌 Técnico em Redes de Computadores formado pelo **Senai de Informática**!
+* 📊 Cursando Bacharelado em Ciência de Dados na **UNIVESP**!
 * 🔒 Graduação em Ciência da Computação trancada!
-* 👨🏻‍💻 Participando do Programa FORD ENTER um curso de Capacitação profissional para desenvolvimento web, um curso de Programação Front-end oferecido pela parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP!**
+* 👨🏻‍💻 Participando do Programa **"FORD ENTER"** um curso de Capacitação profissional para desenvolvimento web, um curso de Programação Front-end oferecido pela parceria entre a **Ford Motor Company Brasil**, **Ford Fund** e **SENAI-SP**!
 
 
 ## 📊 &nbsp;Estatísticas: ##
