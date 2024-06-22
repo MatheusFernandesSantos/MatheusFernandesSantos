@@ -8,7 +8,7 @@
 ## ✅ &nbsp;Resumo: ##
 * 🖥️ Atuando como Analísta Service Desk Jr em Computação em Nuvem!
 * 🔌 Técnico em Redes de Computadores formado pelo **Senai de Informática**!
-* 📊 Cursando Bacharelado em Ciência de Dados na **UNIVESP**!
+* 📊 Cursando Bacharelado em Engenharia de Computação na **UNIVESP**!
 * 👨🏻‍💻 Participando do Programa **"FORD ENTER"** um curso de Capacitação profissional para desenvolvimento web, um curso de Programação Front-end oferecido pela parceria entre a **Ford Motor Company Brasil**, **Ford Fund** e **SENAI-SP**!
 
 
