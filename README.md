@@ -1,14 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus;Sejam+Bem-vindos!;Profissional+em+TI+:%29)](https://git.io/typing-svg)
 
-`Cloud Service Desk Analyst` 
+`Cloud Analyst`
+`Infrastructure Analyst`
 `Computer Networks Technician`
-`Bachelor of Data Science` 
-`Front End Developer`
+`Web Developer`
+
 
 ## ✅ &nbsp;Resumo: ##
-* 🖥️ Atuando como Analísta Service Desk Jr em Computação em Nuvem!
+* 🖥️ Atuando como Analísta Cloud com foco em Suporte e Monitoramento de Redes em Computação em Nuvem!
 * 🔌 Técnico em Redes de Computadores formado pelo **Senai de Informática**!
-* 📊 Cursando Bacharelado em Engenharia de Computação na **UNIVESP**!
+* 📊 Cursando Bacharelado em Tecnologia da Informação com ênfase em Análise e Desenvolvimento de Sistemas e Software na **UNIVESP**!
 * 👨🏻‍💻 Participando do Programa **"FORD ENTER"** um curso de Capacitação profissional para desenvolvimento web, um curso de Programação Front-end oferecido pela parceria entre a **Ford Motor Company Brasil**, **Ford Fund** e **SENAI-SP**!
 
 
