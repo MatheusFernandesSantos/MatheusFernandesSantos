@@ -7,7 +7,7 @@
 
 
 ## ✅ &nbsp;Resumo: ##
-* 🖥️ Atuando como Analísta Cloud com foco em Suporte e Monitoramento de Redes em Computação em Nuvem!
+* 🖥️ Atuando como Analista Cloud com foco em Suporte e Monitoramento de Redes em Computação em Nuvem!
 * 🔌 Técnico em Redes de Computadores formado pelo **Senai de Informática**!
 * 📊 Cursando Bacharelado em Tecnologia da Informação com ênfase em Análise e Desenvolvimento de Sistemas e Software na **UNIVESP**!
 * 👨🏻‍💻 Participando do Programa **"FORD ENTER"** um curso de Capacitação profissional para desenvolvimento web, um curso de Programação Front-end oferecido pela parceria entre a **Ford Motor Company Brasil**, **Ford Fund** e **SENAI-SP**!
