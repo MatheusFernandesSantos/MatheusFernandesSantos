@@ -4,6 +4,7 @@
 `Infrastructure Analyst`
 `DevOps Engineer`
 `Platform Engineer`
+`Site Reliability Engineer`
 `Computer Networks Technician`
 `Web Developer`
 
