@@ -2,6 +2,8 @@
 
 `Cloud Analyst`
 `Infrastructure Analyst`
+`DevOps Engineer`
+`Platform Engineer`
 `Computer Networks Technician`
 `Web Developer`
 
