@@ -2,18 +2,21 @@
 
 `Cloud Analyst`
 `Infrastructure Analyst`
+`Cloud Engineer`
+`Solutions Architect`
+`Cloud Architect`
 `DevOps Engineer`
 `Platform Engineer`
 `Site Reliability Engineer`
 `Computer Networks Technician`
 `Web Developer`
-
+`Front-End Developer`
 
 ## ✅ &nbsp;Resumo: ##
-* 🖥️ Atuando como Analista Cloud com foco em Suporte e Monitoramento de Redes em Computação em Nuvem!
+* 🖥️ Atuando como Cloud Engineer com foco em Gerenciamento de Nuvem como Serviço na **Darede**!
 * 🔌 Técnico em Redes de Computadores formado pelo **Senai de Informática**!
 * 📊 Cursando Bacharelado em Tecnologia da Informação com ênfase em Análise e Desenvolvimento de Sistemas e Software na **UNIVESP**!
-* 👨🏻‍💻 Participando do Programa **"FORD ENTER"** um curso de Capacitação profissional para desenvolvimento web, um curso de Programação Front-end oferecido pela parceria entre a **Ford Motor Company Brasil**, **Ford Fund** e **SENAI-SP**!
+* 👨🏻‍💻 Capacitado profissional pelo Programa **"FORD ENTER"** um curso de Programação Front-end oferecido pela parceria entre a **Ford Motor Company Brasil**, **Ford Fund** e **SENAI-SP**!
 
 
 ## 📊 &nbsp;Estatísticas: ##
