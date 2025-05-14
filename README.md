@@ -9,8 +9,7 @@
 `Platform Engineer`
 `Site Reliability Engineer`
 `Computer Networks Technician`
-`Web Developer`
-`Front-End Developer`
+
 
 ## ✅ &nbsp;Resumo: ##
 * 🖥️ Atuando como Cloud Engineer com foco em Gerenciamento de Nuvem como Serviço na **Darede**!
