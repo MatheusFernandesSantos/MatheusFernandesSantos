@@ -1,22 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus;Sejam+Bem-vindos!;Profissional+em+TI+:%29)](https://git.io/typing-svg)
 
-`Cloud Analyst`
-`Infrastructure Analyst`
 `Cloud Engineer`
-`Solutions Architect`
-`Cloud Architect`
+`Cloud Solutions Architect`
 `DevOps Engineer`
 `Platform Engineer`
 `Site Reliability Engineer`
-`Computer Networks Technician`
+
 
 
 ## ✅ &nbsp;Resumo: ##
 * 🖥️ Atuando como Cloud Engineer com foco em Gerenciamento de Nuvem como Serviço na **Darede**!
 * 🔌 Técnico em Redes de Computadores formado pelo **Senai de Informática**!
 * 📊 Cursando Bacharelado em Tecnologia da Informação com ênfase em Análise e Desenvolvimento de Sistemas na **UNIVESP**!
-* 👨🏻‍💻 Capacitado profissional pelo Programa **"FORD ENTER"** um curso de Programação Front-end oferecido pela parceria entre a **Ford Motor Company Brasil**, **Ford Fund** e **SENAI-SP**!
-
 
 ## 📊 &nbsp;Estatísticas: ##
 <div>
@@ -25,30 +20,22 @@
   </a>
 </div>
 
-## 🛠 &nbsp;Develoment: ##
+## 🛠 &nbsp;Tecnologias e Ferramentas: ##
 <div> <br>
-  <img align="center"  height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-</div>
-
-## ☁ &nbsp;Cloud&Networking: ##
-<div> <br>
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
 
 ## 📞 &nbsp;Contato: ##
@@ -58,9 +45,6 @@
   <a href="https://www.linkedin.com/in/matheus-fernandes-santos-7a5169204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## 📝 &nbsp;Sobre mim: ##
-
-Sou um profissional na área de TI, com experiência em Manutenção de computadores, implementação de serviços de Redes e Suporte Técnico! formado em Técnico em Redes de Computadores pelo Senai de Informática com a finalidade de Administrar e implantar redes de computadores, dispositivos de comunicação e serviços, de acordo com a necessidade do cliente, seguindo normas técnicas, recomendações do fabricante, boas práticas de mercado e procedimentos da empresa. Comecei minha graduação em Ciência da Computação no primeiro semestre de 2022, só que por motivos financeiros tive que trancar o curso e atualmente estou cursando o ensino superior na UNIVESP, Bacharelado em Ciência de Dados, uma área que tem me interessado. Meu primeiro contato com programação foi com programação em blocos na escola e posteriormente no Técnico de Redes, a qual aprendi um pouco sobre HTML e programação para arduino com C++ utilizando programas e arduino uno para apredizagem. Atualmete estou fazendo um curso de Capacitação profissional para desenvolvimento web do programa FORD ENTER, um curso de programação Front-end oferecido pelo Senai em parceria com a Ford.
 
 <!--
 **MatheusFernandesSantos/MatheusFernandesSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
